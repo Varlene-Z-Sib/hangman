@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=User_Authentication
+comment1.params=useR_n
+comment1.target=boolean\ checkUserName(java.lang.String)
+comment2.params=pW_or
+comment2.target=boolean\ checkPasswordComplexity(java.lang.String)
+comment3.params=n_Ame\ snaMe\ u_nAme\ pwoRd
+comment3.target=java.lang.String\ registerUser(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=n_Ame\ snaMe\ u_nAme\ pwoRd
+comment4.target=boolean\ loginUser(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=n_Ame\ snaMe\ u_nAme\ pwoRd
+comment5.target=java.lang.String\ returnLoginStatus(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6
